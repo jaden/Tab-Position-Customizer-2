@@ -1,0 +1,6 @@
+{
+   "description": {
+      "description": "Extension description in manifest.",
+      "message": "Customize tab opening position and closing behaviour."
+   }
+}

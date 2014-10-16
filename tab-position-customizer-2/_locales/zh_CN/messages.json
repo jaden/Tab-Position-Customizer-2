@@ -1,0 +1,98 @@
+{
+   "close": {
+      "description": "Option category name for tab closing.",
+      "message": "\u5173\u95ED\u6807\u7B7E\u9875\u540E\u6FC0\u6D3B"
+   },
+   "closeDefault": {
+      "description": "Option value for tab closing.",
+      "message": "\u9ED8\u8BA4"
+   },
+   "closeFirst": {
+      "description": "Option value for tab closing.",
+      "message": "\u7B2C\u4E00\u4E2A\u6807\u7B7E\u9875"
+   },
+   "closeLast": {
+      "description": "Option value for tab closing.",
+      "message": "\u6700\u540E\u4E00\u4E2A\u6807\u7B7E\u9875"
+   },
+   "closeLeft": {
+      "description": "Option value for tab closing.",
+      "message": "\u5DE6\u8FB9\u7684\u6807\u7B7E\u9875"
+   },
+   "closeOrder": {
+      "description": "Option value for tab closing.",
+      "message": "\u6309\u6FC0\u6D3B\u987A\u5E8F"
+   },
+   "closeRight": {
+      "description": "Option value for tab closing.",
+      "message": "\u53F3\u8FB9\u7684\u6807\u7B7E\u9875"
+   },
+   "description": {
+      "description": "Extension description in manifest.",
+      "message": "\u81EA\u5B9A\u4E49\u6807\u7B7E\u9875\u6253\u5F00\u4F4D\u7F6E\u548C\u5173\u95ED\u64CD\u4F5C"
+   },
+   "misc": {
+      "description": "Option category name for misc.",
+      "message": "\u5176\u5B83"
+   },
+   "miscExternalLinkDefault": {
+      "description": "Option value for external link behavior.",
+      "message": "\u4EE5\u9ED8\u8BA4\u7684\u65B9\u5F0F\u6253\u5F00\u5916\u90E8\u94FE\u63A5"
+   },
+   "miscExternalLinkUnfocus": {
+      "description": "Option value for window focus at external link opening.",
+      "message": "\u6D4F\u89C8\u5668\u4E0D\u6FC0\u6D3B\u7A97\u53E3\u6253\u5F00\u5916\u90E8\u94FE\u63A5\uFF08\u5982\u679C\u53EF\u80FD\u7684\u8BDD\uFF09"
+   },
+   "miscSameWindow": {
+      "description": "Option value for force same window.",
+      "message": "\u4EE5\u65B0\u6807\u7B7E\u9875\u6253\u5F00\u5F39\u51FA\u7A97\u53E3"
+   },
+   "miscSameWindowException": {
+      "description": "Exception list for force same window.",
+      "message": "\u4F8B\u5916 (\u6B63\u5219\u8868\u8FBE\u5F0F):"
+   },
+   "new": {
+      "description": "Option category name for new tab.",
+      "message": "\u65B0\u6807\u7B7E\u9875"
+   },
+   "newBackground": {
+      "description": "Option value for new tab.",
+      "message": "\u4E0D\u6FC0\u6D3B\u65B0\u6807\u7B7E\u9875"
+   },
+   "newDefault": {
+      "description": "Option value for new tab.",
+      "message": "\u9ED8\u8BA4"
+   },
+   "newForeground": {
+      "description": "Option value for new tab.",
+      "message": "\u6FC0\u6D3B\u65B0\u6807\u7B7E\u9875"
+   },
+   "open": {
+      "description": "Option category name for tab opening.",
+      "message": "\u6807\u7B7E\u9875\u6253\u5F00\u4F4D\u7F6E"
+   },
+   "openDefault": {
+      "description": "Option value for tab opening.",
+      "message": "\u9ED8\u8BA4"
+   },
+   "openFirst": {
+      "description": "Option value for tab opening.",
+      "message": "\u603B\u662F\u5728\u6700\u524D"
+   },
+   "openLast": {
+      "description": "Option value for tab opening.",
+      "message": "\u603B\u662F\u5728\u6700\u540E"
+   },
+   "openLeft": {
+      "description": "Option value for tab opening.",
+      "message": "\u5F53\u524D\u6807\u7B7E\u9875\u7684\u5DE6\u8FB9"
+   },
+   "openRight": {
+      "description": "Option value for tab opening.",
+      "message": "\u5F53\u524D\u6807\u7B7E\u9875\u7684\u53F3\u8FB9"
+   },
+   "optionTitle": {
+      "description": "Title for option page.",
+      "message": "\u6807\u7B7E\u9875\u4F4D\u7F6E\u81EA\u5B9A\u4E49\u9009\u9879"
+   }
+}

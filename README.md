@@ -7,7 +7,7 @@ Based on the Tab Position Customizer extension.  I changed the name, the icon an
 
 Install
 -------
-Can be installed from the [Chrome Extension page](https://chrome.google.com/webstore/detail/)
+Can be installed from the [Chrome Extension page](https://chrome.google.com/webstore/detail/tab-position-customizer-2/jglbflnkbgbklegdblkohbbbheeeklej?hl=en&gl=US)
 
 Or you can download the code, enable developer mode on the Chrome extensions page and add it with "Load unpacked extension".
 

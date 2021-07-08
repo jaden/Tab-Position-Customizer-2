@@ -1,4 +1,4 @@
-Tab Position Customizer 2
+Tab Position Customizer 2 (no longer available in Chrome appstore)
 =========================
 
 **Update**: I removed the extension from the web store after Google rejected the updates and threatened to suspend my account. I no longer even use this extension and it's become too much of a hassle and certainly not worth losing access to my account. If someone else would like to continue maintaining it, feel free to reach out.
